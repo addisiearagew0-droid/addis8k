@@ -1,0 +1,6 @@
+{
+  "name": "Temple Run",
+  "description": "Amharic 3-lane endless temple runner game with custom player photo avatar support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
